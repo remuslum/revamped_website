@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "dist",
+    "site" : "lumremus",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
